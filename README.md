@@ -11,7 +11,7 @@ In light of this, my objective here is to develop a model that can predict which
 Our dataset encompasses various factors including job involvement, education, job satisfaction, performance, work-life balance, and relationship satisfaction (source: https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset).
 
 ---
-Conclusions summary:
+## Conclusions summary:
 
 1. mean age of the employees who stayed is higher compared to who left;
 2. rate of employees who stayed is higher;
